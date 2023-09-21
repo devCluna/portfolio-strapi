@@ -11,10 +11,6 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "project_id": {
-      "type": "customField",
-      "customField": "plugin::field-uuid.uuid"
-    },
     "project_title": {
       "type": "string",
       "default": "project_title",
