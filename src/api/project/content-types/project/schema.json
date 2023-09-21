@@ -21,6 +21,21 @@
       "regex": "^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$",
       "customField": "plugin::field-uuid.uuid"
     },
+    "project_type": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "enumeration",
+      "enum": [
+        "app",
+        "pen",
+        "project"
+      ],
+      "default": "app",
+      "required": true
+    },
     "project_title": {
       "type": "string",
       "default": "project_title",
