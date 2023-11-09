@@ -12,12 +12,12 @@
   "devDependencies": {},
   "dependencies": {
     "@bn-digital/strapi-plugin-field-uuid": "^1.2.12",
-    "@strapi/plugin-color-picker": "^4.13.7",
-    "@strapi/plugin-graphql": "^4.13.7",
-    "@strapi/plugin-i18n": "^4.13.7",
-    "@strapi/plugin-users-permissions": "4.13.6",
-    "@strapi/provider-upload-cloudinary": "4.13.6",
-    "@strapi/strapi": "4.13.6",
+    "@strapi/plugin-color-picker": "^4.15.2",
+    "@strapi/plugin-graphql": "^4.15.2",
+    "@strapi/plugin-i18n": "^4.15.2",
+    "@strapi/plugin-users-permissions": "4.15.2",
+    "@strapi/provider-upload-cloudinary": "4.15.2",
+    "@strapi/strapi": "4.15.2",
     "pg": "8.11.3"
   },
   "author": {
